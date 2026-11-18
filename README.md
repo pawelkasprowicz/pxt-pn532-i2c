@@ -1,4 +1,5 @@
 # PN532 NFC – MakeCode micro:bit
+![Czerwona płytka PN532 V3](czerwona%20p%C5%82ytka%20PN532.jpg)
 
 Biblioteka do obsługi czytnika RFID/NFC PN532 przez I2C
 z wykorzystaniem BBC micro:bit V2.
